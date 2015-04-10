@@ -1,0 +1,19 @@
+.bar {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto; }
+  .bar:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+.tableau {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto; }
+  .tableau:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,9 @@
+@import 'bower_components/susy/sass/susy';
+
+.bar {
+  @include container(90%);
+}
+
+.tableau {
+  @include container(80%);
+}
