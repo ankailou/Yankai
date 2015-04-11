@@ -2,6 +2,16 @@
 
 .bar {
   @include container(90%);
+
+  margin-top: 2em;
+  margin-bottom: 2em;
+
+  input {
+    border: medium none;
+    padding: 1em 1.5em;
+    width: 100%;
+    font-size: 1.1em;
+  }
 }
 
 .tableau {

@@ -1,11 +1,18 @@
 .bar {
   max-width: 90%;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em; }
   .bar:after {
     content: " ";
     display: block;
     clear: both; }
+  .bar input {
+    border: medium none;
+    padding: 1em 1.5em;
+    width: 100%;
+    font-size: 1.1em; }
 
 .tableau {
   max-width: 80%;
